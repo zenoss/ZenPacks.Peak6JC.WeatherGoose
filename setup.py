@@ -5,7 +5,7 @@
 NAME = 'ZenPacks.Peak6JC.WeatherGoose'
 VERSION = '1.0'
 AUTHOR = 'Jason Carpenter - Peak6'
-LICENSE = 'GPLv2'
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.Peak6JC']
 PACKAGES = ['ZenPacks', 'ZenPacks.Peak6JC', 'ZenPacks.Peak6JC.WeatherGoose']
 INSTALL_REQUIRES = []
